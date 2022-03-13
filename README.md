@@ -7,5 +7,6 @@ Here's list of project to do:
    - [ ] Scripting programming language(Main purpose: portability, maybe will be used in Linux server)
    - [ ] Modular Linux Server
    - [ ] Event System
-   - [ ] Logger
+   - [ ] Logger  
+
 This list may be expanded later
