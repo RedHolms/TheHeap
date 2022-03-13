@@ -1,0 +1,8 @@
+{
+   "files.associations": {
+      "*.lua": "lua",
+      "*.layout": "xml",
+      "mem.h": "c",
+      "ntdef.h": "c"
+   }
+}
