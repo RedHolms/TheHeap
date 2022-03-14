@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <string.h>
-#include <assert.h>
+#include <windows.h>
 
 #include <mem.h>
 
 typedef unsigned short bool_t;
-#define TRUE (1)
-#define FALSE (0)
 
 #define TAB__ "\t"
 
@@ -87,7 +85,6 @@ bool_t test_bigdata() {
       return FALSE;
    }
    printf(TAB__ "Screen with %i(%ibytes) pixels successfuly allocated\n", 1920*1080, 1920*1080*sizeof(Pixel));
-
    free(screen);
 
    return TRUE;

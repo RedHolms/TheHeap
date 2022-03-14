@@ -7,8 +7,6 @@
 #include <ntdef.h>
 #include <assert.h>
 
-#include <stdio.h>
-
 /* Utils */
 #define ClearMemory(p,s) memset(p,0,s)
 
