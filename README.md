@@ -4,9 +4,10 @@ The repository's name speaks for itself. This repository - is just a heap of pro
 Here's list of project to do:
    - [X] Memory Alocator
    - [ ] Networking module
-   - [ ] Scripting programming language(Main purpose: portability, maybe will be used in Linux server)
-   - [ ] Modular Linux Server
+   - [ ] Assebmly-like simple programming language
    - [ ] Event System
-   - [ ] Logger  
+   - [X] Logger
+   - [ ] Unit Test Module
+   - [ ] Hashtable(Associative array)
 
 This list may be expanded later
