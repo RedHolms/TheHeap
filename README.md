@@ -8,6 +8,6 @@ Here's list of project to do:
    - [ ] Event System
    - [X] Logger
    - [ ] Unit Test Module
-   - [ ] Hashtable(Associative array)
+   - [X] Hashtable(Associative array)
 
 This list may be expanded later
